@@ -6,9 +6,9 @@
 ### **<div align="center">I'm Gourav Deshmukh, a web developer 👨‍💻 🇮🇳</div>**  
   
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://avatars.githubusercontent.com/u/68382376?s=400&u=feafe3ac4e6f164518b3c2ad0eb12d42e67f6d20&v=4" align="center" height="150" width="150" />
-</div>  
+</div>   -->
   
 
 **<div align="center">...</div>**  
