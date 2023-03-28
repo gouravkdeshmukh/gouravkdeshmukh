@@ -95,7 +95,7 @@
   
 
 <br/>  
-
+<div align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gouravkdeshmukh&theme=dark&hide_border=false)<br/>
@@ -107,8 +107,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=gouravkdeshmukh&icon=5&color=0)](https://visitcount.itsvg.in)
+</div>
+<!-- [![](https://visitcount.itsvg.in/api?id=gouravkdeshmukh&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- ## Github Stats  
 <div display="inline-block">
@@ -132,7 +132,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gouravkdeshmukh&&style=flat-square" align="center" />
 </div>  
-  
+
+
 
 <br/>  
 
