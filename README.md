@@ -3,11 +3,11 @@
 </div>  
   
 
-### **<div align="center">
+ <div align="center">
 <h1 align="center">Hi 👋, I'm Gourav Deshmukh</h1>
 <h3 align="center">A passionate frontend developer from INDIA </h3>
 <!--   Hi 👋, I'm Gourav Deshmukh, </br> A passionate Web Developer 👨‍💻  </br> 🇮🇳  -->
-  </div>**  
+  </div>
   
 
 <!-- <div align="center">
