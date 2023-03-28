@@ -13,8 +13,25 @@
 
 **<div align="center">...</div>**  
   
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" ) >
 
-- 👀 I’m interested in Full Stack  Developer  
+- 👀 I’m interested in **Full Stack  Developer** 
+
+- 😆Pronouns:... **He/Him**  
+
+- 🌱 I’m currently learning **JavaScript, web development**
+  
+- 🌱 I’m currently learning **Backend**  
+
+- ❓ Ask me about anything related to **JavaScript**  
+  
+- 🤝 I’m looking to collaborate on **Amazing web development project**  
+  
+- ⚡ Fun fact **Always curious to learn new things**  
+  
+- 📫 How to reach me **gouravdeshmukhbzu@gmail.com**  
+
+<!-- - 👀 I’m interested in Full Stack  Developer  
   
 
 - 😆Pronouns:... He/Him  
@@ -33,7 +50,7 @@
   
 
 - 📫 How to reach me gouravdeshmukhbzu@gmail.com  
-  
+   -->
 
 <br/>  
 
