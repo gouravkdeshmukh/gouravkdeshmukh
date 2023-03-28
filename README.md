@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">Hi 👋, I'm Gourav Deshmukh, </br> A passionate Web Developer 👨‍💻  </br> <h3> INIDA </h3> 🇮🇳</div>**  
+### **<div align="center">Hi 👋, I'm Gourav Deshmukh, </br> A passionate Web Developer 👨‍💻  </br> 🇮🇳 </div>**  
   
 
 <!-- <div align="center">
