@@ -107,7 +107,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+
 <!-- [![](https://visitcount.itsvg.in/api?id=gouravkdeshmukh&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- ## Github Stats  
@@ -129,7 +129,7 @@
 
 <br/>  
 
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=gouravkdeshmukh&&style=flat-square" align="center" />
 </div>  
 
