@@ -99,15 +99,11 @@
 
 
 # 📊 GitHub Stats:
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="(https://github-readme-stats.vercel.app/api?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" />
- <img class="img" src="(https://github-readme-streak-stats.herokuapp.com/?user=gouravkdeshmukh&theme=dark&hide_border=false)" />
-  <img class="img" src="[(https://github-readme-streak-stats.herokuapp.com/?user=gouravkdeshmukh&theme=dark&hide_border=false)](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact))" />
-</div>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gouravkdeshmukh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- -->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gouravkdeshmukh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
