@@ -94,13 +94,20 @@
 </div>  
   
 
-<br/>  
+<br/> 
+
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="(https://github-readme-stats.vercel.app/api?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" />
+ <img class="img" src="(https://github-readme-streak-stats.herokuapp.com/?user=gouravkdeshmukh&theme=dark&hide_border=false)" />
+  <img class="img" src="[(https://github-readme-streak-stats.herokuapp.com/?user=gouravkdeshmukh&theme=dark&hide_border=false)](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact))" />
+</div>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gouravkdeshmukh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravkdeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+ -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gouravkdeshmukh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -109,27 +116,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<!-- [![](https://visitcount.itsvg.in/api?id=gouravkdeshmukh&icon=5&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- ## Github Stats  
-<div display="inline-block">
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravkdeshmukh" alt="gouravkdeshmukh" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravkdeshmukh&show_icons=true&locale=en&layout=compact" alt="gouravkdeshmukh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravkdeshmukh&show_icons=true&locale=en" alt="gouravkdeshmukh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravkdeshmukh&" alt="gouravkdeshmukh" /></p>
-
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gouravkdeshmukh&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
--->
 
 <br/>  
 
   
 
 <br/>  
-
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=gouravkdeshmukh&&style=flat-square" align="center" />
 </div>  
